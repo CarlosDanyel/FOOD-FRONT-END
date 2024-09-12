@@ -32,6 +32,9 @@ O projeto possui dois tipos de acesso:
 
 - **Usuário (User):**
 
+ **USUARIO ADMIN: email: carlosdayel275@email**
+ **USUARIO ADMIN: senha: 123**
+
   - **Home:** Página inicial com visão geral.
   - **Prato:** Detalhes sobre pratos.
 
