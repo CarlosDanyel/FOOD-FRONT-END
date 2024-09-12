@@ -16,13 +16,15 @@ export const Container = styled.main`
     align-items: center;
 
     >div {
+      margin-top: -2rem;
       img {
-        width: 255.56px;
+        width: 324px;
       }
     }
 
     form {
-      width: 476px;
+      max-width: 476px;
+      width: 100%;
       padding: 64px;
       background: #001119;
 
@@ -115,16 +117,20 @@ export const Container = styled.main`
     }
   }
 
-  @media (max-width: 657px) {
+  @media (max-width: 752px) {
   > section {
     flex-direction: column;
     justify-content: center;
     gap: 73px ;
     height: 100%;
 
+    >div {
+      margin-top: 0rem;
+    }
+
     form {
       background: none;
-      padding: 0 64px ;
+      padding: 0 35px 0 40px ;
 
       h1 {
         display: none;
