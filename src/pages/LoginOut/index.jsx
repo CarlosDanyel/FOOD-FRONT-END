@@ -57,7 +57,7 @@ export const LoginOut = () => {
           <InputContainer
             nameLabel={"Senha"}
             placeholherName={"No mínimo 6 caracteres"}
-            type={"email"}
+            type={"password"}
             id={"senhaId"}
             setEstate={setPassword}
           />
