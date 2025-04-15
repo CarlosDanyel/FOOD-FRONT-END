@@ -8,7 +8,7 @@
 
 ## 🌟 Sobre
 
-Uma aplicação de busca de pratos de restaurente, onde você pode visualizar e interagir com diversas opções de pratos e receitas.
+Uma aplicação de busca de pratos de restaurante, onde você pode visualizar e interagir com diversas opções de pratos e receitas.
 
 ---
 
