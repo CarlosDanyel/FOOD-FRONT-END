@@ -8,7 +8,7 @@
 
 ## 🌟 Sobre
 
-Desafio Rocketseat, página desenvolvida como parte do curso Explorer. O projeto é uma aplicação de exploração de alimentos, onde você pode visualizar e interagir com diversas opções de pratos e receitas.
+Uma aplicação de busca de pratos de restaurente, onde você pode visualizar e interagir com diversas opções de pratos e receitas.
 
 ---
 
